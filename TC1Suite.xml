@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TC1" verbose="1" >
+  <test name="TC1" >    
+  <classes>	
+       <class name="com.biva.lima.testScripts.HealthChoiceTestCase" />	   
+    </classes>	
+  </test>  
+</suite>	
